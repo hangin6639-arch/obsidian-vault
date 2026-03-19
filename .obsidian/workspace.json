@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "Untitled/create a link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
-            }
-          }
-        ]
-      },
-      {
-        "id": "067777eb2d149560",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "41478da5f3432782",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "create a link"
             }
           }
         ]
@@ -87,10 +71,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "북마크"
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "Untitled/create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "환영합니다! 의 백링크"
+              "title": "Backlinks for create a link"
             }
           },
           {
@@ -163,7 +148,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "모든 속성"
+              "title": "All properties"
             }
           },
           {
@@ -172,21 +157,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "Untitled/create a link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "Outline of create a link"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +181,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f39a925632c30c24",
+  "active": "6b0da1d4cdd3a7ba",
   "lastOpenFiles": [
-    "Untitled",
-    "환영합니다!.md"
+    "독학/Untitled 1.md",
+    "독학/CNN으로 MNIST 숫자 이미지 분류.md",
+    "환영합니다!.md",
+    "독학",
+    "Untitled/create a link.md",
+    "Untitled"
   ]
 }
